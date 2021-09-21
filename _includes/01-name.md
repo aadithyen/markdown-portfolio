@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# The name's Aadithye N
+### I'm a developer and designer.
